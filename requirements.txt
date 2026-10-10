@@ -1,0 +1,10 @@
+# No third-party Python packages are required.
+# The project uses Python standard-library modules only.
+#
+# External runtime requirements:
+# - LM Studio
+# - Qwen3.5-4B
+# - text-embedding-nomic-embed-text-v1.5
+#
+# Recommended Python version:
+# Python 3.10+

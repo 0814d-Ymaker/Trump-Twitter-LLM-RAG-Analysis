@@ -1,0 +1,7 @@
+Trump 10,000 Tweets Stance Statistics
+============================================================
+Total: 10000
+Support: 1902 (19.02%)
+Anti: 3450 (34.50%)
+Neutral/Uncertain: 4648 (46.48%)
+Unknown labels: 0
